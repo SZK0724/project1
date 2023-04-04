@@ -49,7 +49,7 @@ let message=[
     like:1000},
     {name:"usr2",
     date:"3.3.23",
-    msg:"gooderrr",
+    msg:"very good",
     like:10000
 
     }
